@@ -284,7 +284,7 @@
       <path value="$PROJECT_DIR$/FinanceApplication/vendor/jenssegers/date" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1346" />
@@ -373,15 +373,15 @@
       <workItem from="1560670438429" duration="5042000" />
       <workItem from="1560715024205" duration="788000" />
       <workItem from="1560753840403" duration="14462000" />
-      <workItem from="1560840219365" duration="18213000" />
+      <workItem from="1560840219365" duration="18810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157923000" />
+    <option name="totallyTimeSpent" value="158520000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2934947" />
