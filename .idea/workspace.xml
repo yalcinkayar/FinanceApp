@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28e83584-95fe-4fda-9eb6-72f608ca841c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/FinanceApplication/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FinanceApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/chart/indexController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="43" selection-end-column="32" />
+              <folding>
+                <element signature="e#51#79#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Reports.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+              <folding>
+                <element signature="e#23#51#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/customers/indexController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2023">
+              <caret line="129" column="58" selection-start-line="129" selection-start-column="58" selection-end-line="129" selection-end-column="58" />
+              <folding>
+                <element signature="e#55#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/layouts/app.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/layouts/sidebar.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1989">
+              <caret line="117" column="62" selection-start-line="117" selection-start-column="62" selection-end-line="117" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/chart/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FinanceApplication/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1360">
+              <caret line="89" column="70" selection-start-line="89" selection-start-column="70" selection-end-line="89" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>public</find>
+      <find>Seç</find>
+      <find>Dosya</find>
+      <find>Do</find>
+      <find>Dos</find>
+      <find>customerType</find>
+      <find>fileUpload</find>
+      <find>Customers</find>
+      <find>cus</find>
+      <find>ad</find>
+      <find>name</find>
+      <find>item</find>
+      <find>islem_field</find>
+      <find>gun_adet</find>
+      <find>toplam_tutar</find>
+      <find>genel_toplam</find>
+      <find>faturaData</find>
+      <find>amount</find>
+      <find>fatura</find>
+      <find>data-fiyat</find>
+      <find>prof</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Billingtransactions.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/banks/index.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/banks/create.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/banks/edit.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Operations.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/database/migrations/2019_06_12_114543_create_operations_table.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/banks/indexController.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/operations/indexController.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/operations/index.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/operations/collection/create.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/operations/payment/edit.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/operations/collection/edit.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Reminder.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/profile/indexController.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/profile/index.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/customers/index.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/customers/extra.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/customers/indexController.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Products.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/database/migrations/2019_06_06_111601_create_Billingtransactions_table.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/product/index.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/product/edit.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/product/create.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/products/indexController.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/database/migrations/2019_06_13_133630_create_products_table.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/billing/indexController.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/billing.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Offers.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/database/migrations/2019_06_14_093523_create_offercontents_table.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/billing/Incoming/create.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/billing/Incoming/edit.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/billing/Outgoing/create.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/billing/Outgoing/edit.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/offers/create.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Offercontents.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/offers/index.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/offers/indexController.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/database/migrations/2019_06_14_092356_create_offers_table.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/offers/edit.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Reports.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/operations/payment/create.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Charts.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/config/app.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/home/indexController.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/home/indexController.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/routes/web.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/home/index.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/layouts/sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/resources/views/front/chart/index.blade.php" />
+        <option value="$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/chart/indexController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/composer" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/yajra/laravel-datatables-oracle" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/consoletvs/charts" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/consoletvs/support" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/umpirsky/language-list" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/jlawrence/eos" />
+      <path value="$PROJECT_DIR$/FinanceApplication/vendor/jenssegers/date" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="396" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FinanceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinanceApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinanceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinanceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="FinanceApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinanceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinanceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="FinanceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinanceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FinanceApplication/resources/views/front/chart" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\xampp\FinanceApplication\FinanceApplication\resources\views\front\chart" />
+      <recent name="C:\xampp\htdocs\xampp\FinanceApplication\FinanceApplication\app\Http\Controllers" />
+      <recent name="C:\xampp\htdocs\xampp\FinanceApplication\FinanceApplication\resources\views\front\offers" />
+      <recent name="C:\xampp\htdocs\xampp\FinanceApplication\FinanceApplication\app\Http\Controllers\front\offers" />
+      <recent name="C:\xampp\htdocs\xampp\FinanceApplication\FinanceApplication\resources\views\front\product" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28e83584-95fe-4fda-9eb6-72f608ca841c" name="Default Changelist" comment="" />
+      <created>1559815518279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559815518279</updated>
+      <workItem from="1559815521659" duration="5057000" />
+      <workItem from="1560148823940" duration="23377000" />
+      <workItem from="1560235535697" duration="21215000" />
+      <workItem from="1560320659183" duration="23937000" />
+      <workItem from="1560409030870" duration="18656000" />
+      <workItem from="1560493233222" duration="23386000" />
+      <workItem from="1560541258245" duration="1221000" />
+      <workItem from="1560619425412" duration="2569000" />
+      <workItem from="1560670438429" duration="5042000" />
+      <workItem from="1560715024205" duration="788000" />
+      <workItem from="1560753840403" duration="14462000" />
+      <workItem from="1560840219365" duration="18213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="157923000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2934947" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.27987897" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.27987897" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/customers/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="84" column="66" lean-forward="true" selection-start-line="84" selection-start-column="66" selection-end-line="84" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/customers/extra.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="33" column="117" selection-start-line="33" selection-start-column="117" selection-end-line="33" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/database/migrations/2019_06_06_111601_create_Billingtransactions_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/products/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="261" selection-start-line="18" selection-start-column="261" selection-end-line="18" selection-end-column="261" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/products/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="55" column="139" selection-start-line="55" selection-start-column="139" selection-end-line="55" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/database/migrations/2019_06_13_133630_create_products_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Banks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/billing/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/products/indexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="94" column="50" selection-start-line="94" selection-start-column="50" selection-end-line="94" selection-end-column="50" />
+          <folding>
+            <element signature="e#55#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/database/migrations/2019_06_14_093523_create_offercontents_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/billing/Outgoing/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/billing/Outgoing/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/billing/Incoming/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="54" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/item/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/offers/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="58" column="134" selection-start-line="58" selection-start-column="134" selection-end-line="58" selection-end-column="134" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/offers/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/billing/Incoming/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/database/migrations/2019_06_14_092356_create_offers_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/offers/indexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+          <folding>
+            <element signature="e#53#71#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/offers/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="37" column="65" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/billing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#23#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Billingtransactions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Offercontents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Offers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Operations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Reminder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <element signature="e#23#39#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/products/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-819">
+          <caret line="27" selection-start-line="27" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/operations/payment/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/operations/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="57" selection-start-line="92" selection-start-column="57" selection-end-line="92" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/operations/payment/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/billing/indexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="107" column="55" selection-start-line="107" selection-start-column="55" selection-end-line="107" selection-end-column="55" />
+          <folding>
+            <element signature="e#54#70#0#PHP" expanded="true" />
+            <element signature="e#350#585#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Charts.php" />
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/config/charts.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/home/indexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#50#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/home/indexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#50#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/home/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="103" column="62" selection-start-line="103" selection-start-column="62" selection-end-line="103" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Customers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/customers/indexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="129" column="58" selection-start-line="129" selection-start-column="58" selection-end-line="129" selection-end-column="58" />
+          <folding>
+            <element signature="e#55#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/layouts/sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="62" selection-start-line="117" selection-start-column="62" selection-end-line="117" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/resources/views/front/chart/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="89" column="70" selection-start-line="89" selection-start-column="70" selection-end-line="89" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1308">
+          <caret line="235" column="59" selection-start-line="235" selection-start-column="59" selection-end-line="235" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="e#23#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinanceApplication/app/Http/Controllers/front/chart/indexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="43" selection-end-column="32" />
+          <folding>
+            <element signature="e#51#79#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,93 @@
+<?php
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application. These
+| routes are loaded by the RouteServiceProvider within a group which
+| contains the "web" middleware group. Now create something great!
+|
+*/
+
+Route::get('/home','HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::group(['namespace'=>'front','Middleware'=>['auth']],function(){
+    Route::group(['namespace'=>'home','as'=>'home.'],function(){
+        Route::get('/','indexController@index')->name('index');
+    });
+    Route::group(['namespace'=>'profile','as'=>'profile.','prefix'=>'profile'],function(){
+        Route::get('/','indexController@index')->name('index');
+        Route::post('/','indexController@update')->name('update');
+    });
+    Route::group(['namespace'=>'customers','as'=>'customers.','prefix'=>'customers'],function(){
+        Route::get('/','indexController@index')->name('index');
+        Route::get('/create','indexController@create')->name('create');
+        Route::post('/create','indexController@store')->name('store');
+        Route::get('/delete/{id}','indexController@delete')->name('delete');
+        Route::get('/edit/{id}','indexController@edit')->name('edit');
+        Route::post('/edit/{id}','indexController@update')->name('update');
+        Route::get('/extra/{id}','indexController@extra')->name('extra');
+        Route::post('/data','indexController@data')->name('data');
+    });
+    Route::group(['namespace'=>'item','as'=>'item.','prefix'=>'item'],function(){
+        Route::get('/','indexController@index')->name('index');
+        Route::get('/create','indexController@create')->name('create');
+        Route::post('/create','indexController@store')->name('store');
+        Route::get('/delete/{id}','indexController@delete')->name('delete');
+        Route::get('/edit/{id}','indexController@edit')->name('edit');
+        Route::post('/edit/{id}','indexController@update')->name('update');
+        Route::post('/data','indexController@data')->name('data');
+    });
+    Route::group(['namespace'=>'billing','as'=>'billing.','prefix'=>'billing'],function(){
+        Route::get('/','indexController@index')->name('index');
+        Route::get('/create/{type}','indexController@create')->name('create');
+        Route::post('/create/{type}','indexController@store')->name('store');
+        Route::get('/delete/{id}','indexController@delete')->name('delete');
+        Route::get('/edit/{id}','indexController@edit')->name('edit');
+        Route::post('/edit/{id}','indexController@update')->name('update');
+        Route::post('/data','indexController@data')->name('data');
+    });
+    Route::group(['namespace'=>'banks','as'=>'banks.','prefix'=>'banks'],function(){
+        Route::get('/','indexController@index')->name('index');
+        Route::get('/create','indexController@create')->name('create');
+        Route::post('/create','indexController@store')->name('store');
+        Route::get('/delete/{id}','indexController@delete')->name('delete');
+        Route::get('/edit/{id}','indexController@edit')->name('edit');
+        Route::post('/edit/{id}','indexController@update')->name('update');
+        Route::post('/data','indexController@data')->name('data');
+    });
+    Route::group(['namespace'=>'operations','as'=>'operations.','prefix'=>'operations'],function(){
+        Route::get('/','indexController@index')->name('index');
+        Route::get('/create/{type}','indexController@create')->name('create');
+        Route::post('/create/{type}','indexController@store')->name('store');
+        Route::get('/delete/{id}','indexController@delete')->name('delete');
+        Route::get('/edit/{id}','indexController@edit')->name('edit');
+        Route::post('/edit/{id}','indexController@update')->name('update');
+        Route::post('/data','indexController@data')->name('data');
+    });
+    Route::group(['namespace'=>'products','as'=>'products.','prefix'=>'products'],function(){
+        Route::get('/','indexController@index')->name('index');
+        Route::get('/create','indexController@create')->name('create');
+        Route::post('/create','indexController@store')->name('store');
+        Route::get('/delete/{id}','indexController@delete')->name('delete');
+        Route::get('/edit/{id}','indexController@edit')->name('edit');
+        Route::post('/edit/{id}','indexController@update')->name('update');
+        Route::post('/data','indexController@data')->name('data');
+    });
+    Route::group(['namespace'=>'offers','as'=>'offers.','prefix'=>'offers'],function(){
+        Route::get('/','indexController@index')->name('index');
+        Route::get('/create','indexController@create')->name('create');
+        Route::post('/create','indexController@store')->name('store');
+        Route::get('/delete/{id}','indexController@delete')->name('delete');
+        Route::get('/edit/{id}','indexController@edit')->name('edit');
+        Route::post('/edit/{id}','indexController@update')->name('update');
+        Route::post('/data','indexController@data')->name('data');
+    });
+    Route::group(['namespace'=>'chart','as'=>'chart.','prefix'=>'chart'],function(){
+        Route::get('/','indexController@index')->name('index');
+    });
+});
